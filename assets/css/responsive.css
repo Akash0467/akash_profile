@@ -172,10 +172,10 @@
         display: none;
     }
     .home-area-main {
-        background: url(../images/about/1.jpg) no-repeat scroll 100% 20% / cover !important;
+        background: url(../images/about/iam.jpg) no-repeat scroll 100% 20% / cover !important;
     }
     .dark .home-area-main {
-        background: url(../images/about/3.jpg) no-repeat scroll 100% 10% / cover !important;
+        background: url(../images/about/camera-aka.jpg) no-repeat scroll 100% 10% / cover !important;
     }
     .image-jiro, .image-four, .image-three{
         display: none;
