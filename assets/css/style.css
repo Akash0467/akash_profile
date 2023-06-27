@@ -1218,9 +1218,9 @@ Author URI: tomas.me
 	  -webkit-box-align: center;
 		  -ms-flex-align: center;
 			  align-items: center;
-	  color: var(--primaryColor1);
-	  cursor: pointer;
-	  background: #ff0024;
+	  	color: var(--primaryColor1);
+	  	cursor: pointer;
+	  	background: #ff0024;
 		height: 30px;
 		width: 35px;
 		border-radius: 3px;
