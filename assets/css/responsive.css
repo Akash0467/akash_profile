@@ -45,7 +45,6 @@
     }
 }
 
-  /* Medium Device = 1200px */
 @media all and (max-width: 1199.98px) {
     .none-hdr {
         display: none;
@@ -65,6 +64,10 @@
         width: 0;
         top: 0;
     }
+    /* .open{
+        width: 50%;
+        height: 100vh;
+    } */
     .header-area {
         width: 254px;
     }
@@ -76,12 +79,6 @@
     .home-area.section-title {
         padding-top: 100px;
     }
-    /* .image-two, .image-three {
-        margin-top: 0px;
-    }
-    .image-four, .image-three{
-        display: none;
-    } */
     .about-image {
         margin-bottom: 30px;
         height: 200px;
@@ -172,7 +169,7 @@
         display: none;
     }
     .home-area-main {
-        background: url(../images/about/iam.jpg) no-repeat scroll 100% 20% / cover !important;
+        background: url(../images/about/camera-aka.jpg) no-repeat scroll 100% 20% / cover !important;
     }
     .dark .home-area-main {
         background: url(../images/about/camera-aka.jpg) no-repeat scroll 100% 10% / cover !important;
@@ -222,6 +219,9 @@
     .blog-row {
         padding-top: 10px;
     }
+    .desc {
+        color: var(--primaryColor1);
+    }
     .footer p {
         font-size: 13px;
     }
@@ -242,13 +242,6 @@
     .typing-js i {
         display: none;
     }
-    /* .btn-bar {
-        flex-direction: column;
-    }
-    .btn-bar a {
-        margin-right: 28px;
-        margin-bottom: 20px;
-    } */
     .btn-bar a {
         margin-right: 10px;
     }

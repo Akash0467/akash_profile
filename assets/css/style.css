@@ -782,6 +782,8 @@ Author URI: tomas.me
 	  position: absolute;
 	  top: 0;
 	  right: 0;
+	  color: #000;
+	  font-weight: 600;
   }
   .resume-row .resume-right p {
 	  max-width: 80%;
@@ -1216,7 +1218,12 @@ Author URI: tomas.me
 	  -webkit-box-align: center;
 		  -ms-flex-align: center;
 			  align-items: center;
-	  color: var(--primaryColor5);
+	  color: var(--primaryColor1);
+	  cursor: pointer;
+	  background: #ff0024;
+		height: 30px;
+		width: 35px;
+		border-radius: 3px;
   }
   .mob-header{
 	  background: var(--primaryColor2);
